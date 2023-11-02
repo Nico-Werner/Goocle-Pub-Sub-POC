@@ -15,7 +15,7 @@ $ pnpm install
 
 ## Running the app
 
-- Start the gcloud emulator ```$ gcloud beta emulators pubsub start --project=pubsub-poc-301023```
+- Start the gcloud emulator ```$ gcloud beta emulators pubsub start --project=PROJECT_ID```
 
 ```bash
 # development
